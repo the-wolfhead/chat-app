@@ -30,7 +30,7 @@ body {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background-color: yellow;
+  background-color: rgba(255, 166, 0, 0.898);
 }
 
 main {
