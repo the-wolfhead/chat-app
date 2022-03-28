@@ -124,7 +124,7 @@ p {
   border-radius: 25px;
   position: relative;
   color: white;
-  text-align: center;
+  
 }
 
 .message {
@@ -153,4 +153,9 @@ img {
   height: 40px;
   border-radius: 50%;
   margin: 2px 5px;
+}
+@media (max-width: 600px) {
+  .App {
+      margin: 0 10px;
+  }
 }
