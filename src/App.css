@@ -159,3 +159,9 @@ img {
       margin: 0 10px;
   }
 }
+
+@media (max-width: 600px) {
+  .App section{
+      margin: 0 10px;
+  }
+}
