@@ -141,11 +141,12 @@ p {
   color: white;
   background: #A72608;
   align-self: flex-end;
+  margin-left: 48px;
 }
 .received p {
   background: #003844;
   color: white;
-  margin: 2px;
+  margin-right: 48px;
 }
 
 img {
