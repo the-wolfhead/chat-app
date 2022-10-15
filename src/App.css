@@ -30,7 +30,10 @@ body {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
+  background-image: url(img/IMG_3699.JPG);
+  background-position: center;
   background-color: rgb(241,135,1);
+
 }
 
 main {
